@@ -1,4 +1,4 @@
-
+# Ribbon AnaLysis
 _This projects data was analysed exclusively with excel
 
 ## Table of content
@@ -54,7 +54,10 @@ The chart below shows a steady growth in user engagement over the month. A stead
 
 We can measure how stable the app is using crash rate per user. The app has a crash rate per user of 0.06, which mean on average evry user experienced 0.06 (or 6% ) crashes while using the app which is more than the industry standard of 1%. This indicates that a significant number of users are experiencing frequent crashes while using the app. This leads to a poor user experience, decreased user engagement, negative reviews, and potential loss of revenue.
 
+![image](https://github.com/0layiw0la/Numerist-data-challenge/assets/103042427/097a66a7-8832-4b74-b9c3-6f6688b96098)
 
+From the chart number of crashes ccorrrelates positively the number of users, meaning the more users there are the more frequent crashes get. The chart below shows us that most crashes occur when the amount of users crosses 72,000,000.
 
-the number of crashes ccorrrelates positively the number of users, meaning the more users there are the more frequent crashes get. The chart below shows us that most crashes occur when the amount of users crosses 72,000,000.
-# Summary
+![image](https://github.com/0layiw0la/Numerist-data-challenge/assets/103042427/be0a3d2a-1dd5-4058-8e2e-0c38585b164c)
+
+# conclusion
