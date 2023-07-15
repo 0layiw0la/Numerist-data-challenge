@@ -60,7 +60,7 @@ Although it falls within the accepted benchmark more than half the posts made ar
 
 ## Overall engagement rate
 
-The overall engagement rate is a comprehensive metric that considers all types of user interactions (likes and reposts in this case) in relation to the total audience. Ribbon has an overall engagement rate of 0.89 (or 89%), meaning most users are engaging with content on the app.
+The overall engagement rate is a comprehensive metric that considers all types of user interactions (likes and reposts in this case) in relation to the total audience. Ribbon has an overall engagement rate of 0.89 (or 89%), meaning 89% of users are engaging with content on the app.
 
 ![image](https://github.com/0layiw0la/Numerist-data-challenge/assets/103042427/08e7a4c8-3a72-45e5-b2f7-5ce418f21e05)
 
