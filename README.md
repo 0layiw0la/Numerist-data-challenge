@@ -10,7 +10,14 @@ _This projects data was analysed exclusively with excel
 
 This data set for this analysis was provided by Socialblaze. The data contains key data on ribbon's operations from july 6th to august 5th a range of 32 days, This data will be used to access the applications possible success and how to leverage on the possible success or avoid failure.In this report i will be taking into consideration some key performance indicators (KPI) like the retention rate, engagement metrics , growth rate and the crash rate. 
 
+## User Sign ups
+
+Over 3.4 billion people have installed the ribbon app since launch, but about **3,385,000(three million three hundred eighty-five thousand.)** of these installations failed to complete the signup proces. This could be caused by an overly complicated or confusing signup process causing users to get frustrated and abandon the app before completing the registration process. 
+![image](https://github.com/0layiw0la/Ribbon-Analysis/assets/103042427/571f2676-4d69-49f0-9bef-f3f07ceb8574)
+
+
 ## Retention rate
+
 Retention rate is a crucial and valuable metric for assessing the success of a social media app. It indicates how well the app retains its active users over time, and these users play a significant role in driving engagement. By focusing on retention, app developers can ensure a loyal and engaged user base, which is vital for the app's long-term success and growth.
 
 Fortunately Ribbon has a good retention rate, the social media app industry benchmark for a one month retention social media apps is between 25% to 40% retention rate and Ribbon has a 77% retention rate, which is above the benchmark.
