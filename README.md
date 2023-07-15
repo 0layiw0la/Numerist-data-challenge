@@ -44,11 +44,12 @@ Although it falls within the accepted benchmark more than half the posts made ar
 
 The overall engagement rate is a comprehensive metric that considers all types of user interactions (likes and reposts in this case) in relation to the total audience. Ribbon has an overall engagement rate of 0.89 (or 89%), meaning most users are engaging with content on the app.
 
-![image](https://github.com/0layiw0la/Numerist-data-challenge/assets/103042427/444b0ee5-3753-481a-93e7-097d32685cfc)
+![image](https://github.com/0layiw0la/Numerist-data-challenge/assets/103042427/08e7a4c8-3a72-45e5-b2f7-5ce418f21e05)
 
 The chart below shows a steady growth in user engagement over the month. A steady growth of engagement over a month in a social media app indicates consistent and incremental improvements in user interaction and activity. This positive trend suggests that users are actively engaging with the content and finding value in the app's features. The app's content strategy is likely effective in delivering engaging and relevant content consistently. 
 
-![image](https://github.com/0layiw0la/Numerist-data-challenge/assets/103042427/08e7a4c8-3a72-45e5-b2f7-5ce418f21e05)
+![image](https://github.com/0layiw0la/Numerist-data-challenge/assets/103042427/988111f8-581d-4263-8466-8b258cc2eb9d)
+
 
 ## App stability
 
