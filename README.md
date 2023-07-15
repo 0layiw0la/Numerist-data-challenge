@@ -6,9 +6,9 @@ This projects data was analysed exclusively with excel
 * [Introduction](#intro)
 * [User Acquisition Metris](#acquire)
 * [Engagement metrics](#engage)
-* [App stability](#intro)
-* [Conclusions](#intro)
-* [Reccomendations ](#intro)
+* [App stability](#stable)
+* [Conclusions](#conc)
+* [Reccomendations ](#rec)
 
 # <a name='ProblemStatement'></a>Problem statement
 
@@ -19,7 +19,7 @@ Your analysis will focus on key metrics and insights to present to the CEO and F
 
 This data set for this analysis was provided by SocialBlaze. The data contains key data on ribbon's operations from july 6th to august 5th a range of 32 days, This data will be used to access the applications possible success and how to leverage on the possible success or avoid failure.In this report i will be taking into consideration some key performance indicators (KPI) like the retention rate, engagement metrics , growth rate and the crash rate. 
 
-# User Acquisition Metrics.
+# <a name="acquire"></a>User Acquisition Metrics.
 
 ## User Sign ups
 
