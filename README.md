@@ -1,4 +1,4 @@
-# Ribbon AnaLysis
+# Ribbon Success AnaLysis
 This projects data was analysed exclusively with excel
 
 ## Table of content
@@ -24,7 +24,8 @@ This data set for this analysis was provided by SocialBlaze. The data contains k
 ## User Sign ups
 
 Over 3.4 billion people have installed the ribbon app since launch, but about **3,385,000(three million three hundred eighty-five thousand.)** of these installations failed to complete the signup proces. This could be caused by an overly complicated or confusing signup process causing users to get frustrated and abandon the app before completing the registration process. 
-![image](https://github.com/0layiw0la/Ribbon-Analysis/assets/103042427/571f2676-4d69-49f0-9bef-f3f07ceb8574)
+![image](https://github.com/0layiw0la/Ribbon-Analysis/assets/103042427/694987c3-19f0-4165-b6c1-65855cf61005)
+
 
 
 ## Retention rate
@@ -33,7 +34,8 @@ Retention rate is a crucial and valuable metric for assessing the success of a s
 
 Fortunately Ribbon has a good retention rate, the social media app industry benchmark for a one month retention social media apps is between 25% to 40% retention rate and Ribbon has a 77% retention rate, which is above the benchmark.
 
-![image](https://github.com/0layiw0la/Numerist-data-challenge/assets/103042427/917d0a32-ae7f-4c14-ba43-1caa867830ee)
+![image](https://github.com/0layiw0la/Ribbon-Analysis/assets/103042427/2443f4bc-3494-4288-b321-72f670859120)
+
 
 ## Growth rate
         
@@ -47,7 +49,9 @@ Another important thing to consider is Ribbon's growth rate. Considering that fo
 
 Another key factors is how long these users are staying online, longer session durations show that the product is able to provide value for the users.
 
-![image](https://github.com/0layiw0la/Numerist-data-challenge/assets/103042427/509bf4e6-f611-4362-951e-9b11416acf91)
+![image](https://github.com/0layiw0la/Ribbon-Analysis/assets/103042427/f56977e0-a4df-410e-b076-ab9ca8ad7974)
+
+
 
 But how long the users are staying online on it's own doesnt tell us much we also need to look at if they are actively engaging  on the app to get a clearer picture on ribbon's possible success. 
 
@@ -56,18 +60,19 @@ But how long the users are staying online on it's own doesnt tell us much we als
 Post visibility helps analyze algorithim performance, optimise posting strategy, and maximize content reach. Higher visibility leads to increased user engagement and provides insights into user interests. During this one month period a toal of 62,288,000 (sixty-two million two hundred eighty-eight thousand) posts were made on ribbon but only 25,380,620 (twenty-five million three hundred eighty thousand six hundred twenty) were actually seen by users. meaning only 38.87% of postson ribbon were actually seen by users. This falls within the acceptable range of 30% to 50% for social media apps.
 
 ![image](https://github.com/0layiw0la/Numerist-data-challenge/assets/103042427/e7dcc31f-0070-429a-b6f9-778d9c305d3b)
+
 Although it falls within the accepted benchmark more than half the posts made aren't actually seen by users. This could lead to lower user engagement and revenue genration. A poorly optimised algorithim could cause this as it may be suppressing content and only favours specific types of post. It could also be as a result of the app failing to provide personalized and relevant content for each user.
 
 ## Overall engagement rate
 
 The overall engagement rate is a comprehensive metric that considers all types of user interactions (likes and reposts in this case) in relation to the total audience. Ribbon has an overall engagement rate of 0.89 (or 89%), meaning 89% of users are engaging with content on the app.
 
-![image](https://github.com/0layiw0la/Numerist-data-challenge/assets/103042427/08e7a4c8-3a72-45e5-b2f7-5ce418f21e05)
+![image](https://github.com/0layiw0la/Ribbon-Analysis/assets/103042427/37ab7d91-6b4f-4c93-8096-eafbeaaf2dcb)
+
 
 The chart below shows a steady growth in user engagement over the month. A steady growth of engagement over a month in a social media app indicates consistent and incremental improvements in user interaction and activity. This positive trend suggests that users are actively engaging with the content and finding value in the app's features. The app's content strategy is likely effective in delivering engaging and relevant content consistently. 
 
-![image](https://github.com/0layiw0la/Ribbon-Analysis/assets/103042427/0367bed5-b451-4b89-91a2-9878717cd647)
-
+![image](https://github.com/0layiw0la/Ribbon-Analysis/assets/103042427/6900ec28-6977-476a-9d20-8274a9dd22a3)
 
 
 
@@ -75,7 +80,8 @@ The chart below shows a steady growth in user engagement over the month. A stead
 
 We can measure how stable the app is using crash rate per user. The app has a crash rate per user of 0.06, which mean on average evry user experienced 0.06 (or 6% ) crashes while using the app which is more than the industry standard of 1%. This indicates that a significant number of users are experiencing frequent crashes while using the app. This leads to a poor user experience, decreased user engagement, negative reviews, and potential loss of revenue.
 
-![image](https://github.com/0layiw0la/Numerist-data-challenge/assets/103042427/097a66a7-8832-4b74-b9c3-6f6688b96098)
+![image](https://github.com/0layiw0la/Ribbon-Analysis/assets/103042427/daa8d8e2-bb08-49b2-af92-f21619320258)
+
 
 # <a name="conc"></a>Conclusions
 
