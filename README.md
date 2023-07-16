@@ -66,7 +66,9 @@ The overall engagement rate is a comprehensive metric that considers all types o
 
 The chart below shows a steady growth in user engagement over the month. A steady growth of engagement over a month in a social media app indicates consistent and incremental improvements in user interaction and activity. This positive trend suggests that users are actively engaging with the content and finding value in the app's features. The app's content strategy is likely effective in delivering engaging and relevant content consistently. 
 
-![image](https://github.com/0layiw0la/Numerist-data-challenge/assets/103042427/988111f8-581d-4263-8466-8b258cc2eb9d)
+![image](https://github.com/0layiw0la/Ribbon-Analysis/assets/103042427/0367bed5-b451-4b89-91a2-9878717cd647)
+
+
 
 
 # <a name="stable" ></a>App stability
