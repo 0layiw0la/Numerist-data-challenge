@@ -15,7 +15,7 @@ This projects data was analysed exclusively with excel
 As a Data Analyst, your task is to analyse the provided data set to determine the success of the product launch for SocialBlaze's new app, Ribbon. SocialBlaze also have another app called InstantSnaps - Users accounts on InstantSnaps will be linked to Ribbon.
 Your analysis will focus on key metrics and insights to present to the CEO and Founder.
 
-# <a name='intro'></a>Intorduction
+# <a name='intro'></a>Introduction
 
 This data set for this analysis was provided by SocialBlaze. The data contains key data on ribbon's operations from july 6th to august 5th a range of 32 days, This data will be used to access the applications possible success and how to leverage on the possible success or avoid failure.In this report i will be taking into consideration some key performance indicators (KPI) like the retention rate, engagement metrics , growth rate and the crash rate. 
 
@@ -23,7 +23,7 @@ This data set for this analysis was provided by SocialBlaze. The data contains k
 
 ## User Sign ups
 
-Over 3.4 billion people have installed the ribbon app since launch, but about **3,385,000(three million three hundred eighty-five thousand.)** of these installations failed to complete the signup proces. This could be caused by an overly complicated or confusing signup process causing users to get frustrated and abandon the app before completing the registration process. 
+Over 3.4 billion people have installed the ribbon app since launch, but about **3,385,000(three million three hundred eighty-five thousand.)** of these installations failed to complete the signup process. This could be caused by an overly complicated or confusing signup process causing users to get frustrated and abandon the app before completing the registration process. 
 ![image](https://github.com/0layiw0la/Ribbon-Analysis/assets/103042427/694987c3-19f0-4165-b6c1-65855cf61005)
 
 
@@ -53,15 +53,15 @@ Another key factors is how long these users are staying online, longer session d
 
 
 
-But how long the users are staying online on it's own doesnt tell us much we also need to look at if they are actively engaging  on the app to get a clearer picture on ribbon's possible success. 
+But how long the users are staying online on it's own doesn't tell us much we also need to look at if they are actively engaging  on the app to get a clearer picture on ribbon's possible success. 
 
 ## Post visibility
 
-Post visibility helps analyze algorithim performance, optimise posting strategy, and maximize content reach. Higher visibility leads to increased user engagement and provides insights into user interests. During this one month period a toal of 62,288,000 (sixty-two million two hundred eighty-eight thousand) posts were made on ribbon but only 25,380,620 (twenty-five million three hundred eighty thousand six hundred twenty) were actually seen by users. meaning only 38.87% of postson ribbon were actually seen by users. This falls within the acceptable range of 30% to 50% for social media apps.
+Post visibility helps analyze algorithim performance, optimise posting strategy, and maximize content reach. Higher visibility leads to increased user engagement and provides insights into user interests. During this one month period a toal of 62,288,000 (sixty-two million two hundred eighty-eight thousand) posts were made on ribbon but only 25,380,620 (twenty-five million three hundred eighty thousand six hundred twenty) were actually seen by users. meaning only 38.87% of posts on ribbon were actually seen by users. This falls within the acceptable range of 30% to 50% for social media apps.
 
 ![image](https://github.com/0layiw0la/Numerist-data-challenge/assets/103042427/e7dcc31f-0070-429a-b6f9-778d9c305d3b)
 
-Although it falls within the accepted benchmark more than half the posts made aren't actually seen by users. This could lead to lower user engagement and revenue genration. A poorly optimised algorithim could cause this as it may be suppressing content and only favours specific types of post. It could also be as a result of the app failing to provide personalized and relevant content for each user.
+Although it falls within the accepted benchmark more than half the posts made aren't actually seen by users. This could lead to lower user engagement and revenue generation. A poorly optimized algorithm could cause this as it may be suppressing content and only favours specific types of post. It could also be as a result of the app failing to provide personalized and relevant content for each user.
 
 ## Overall engagement rate
 
@@ -93,13 +93,13 @@ Furthermore, the app's competitive analysis reveals that its unique value propos
 
 I am optimistic about the future of Ribbon and its ability to captivate and engage users, ultimately contributing to a successful venture in the social media industry.
 
-# <a name="rec"></a>Reccomendations for Improvement
+# <a name="rec"></a>Recomendations for Improvement
 
-* The signup process has to be optimized to make it quick, easy, and user-friendly this will help user retention. The team at ribbon should also collect user feedbak on any comfusing or complex parts of the signup process to aid optimization.
+* The signup process has to be optimized to make it quick, easy, and user-friendly this will help user retention. The team at ribbon should also collect user feedback on any confusing or complex parts of the signup process to aid optimization.
   
-* The marketing team should strive to ensure users understand the app's value proposition from the start as this will help in user aquisition and retendtion.
+* The marketing team should strive to ensure users understand the app's value proposition from the start as this will help in user acquisition and retention.
   
-* The ribbon app content suggestion algorithim needs to be optimized so users recieve personalized and relevant content. This can help solve the issue of posts not being seen by users and increase user engagement. A feedback loop that allows users to provide explicit feedback on content suggestions should be integrated into the app. This feedback can be to further refine the algorithm and enhance personalization.
+* The ribbon app content suggestion algorithm needs to be optimized so users receive personalized and relevant content. This can help solve the issue of posts not being seen by users and increase user engagement. A feedback loop that allows users to provide explicit feedback on content suggestions should be integrated into the app. This feedback can be to further refine the algorithm and enhance personalization.
 
 * During the analysis I noticed that the app has a crash rate which is higher than the industry benchmark, To address this issue the team is advised to prioritize app stability and performance. Implementing regular code reviews, and testing, along with the integration of crash analytics and monitoring tools are essential for continuous improvement and enhancing user experience.
 
@@ -107,15 +107,15 @@ I am optimistic about the future of Ribbon and its ability to captivate and enga
 
   ## Answer's to the CEO'S questions
   
-* Ribbon's success can be levarage to enhance other products and services through the following ways :
+* Ribbon's success can be leverage to enhance other products and services through the following ways :
   
     * Cross promotion :  Ribbon's user base can be used to promote other products and services on the company through targeted advertisements on the app.
     * Influencer Marketing: Influencers and content creators on Ribbon can be used to promote other products and services.Influencers with a large and engaged following can significantly impact the success of a product launch or service offering.
  
  * User acquisition and engagement can be improved through :
 
-    * Targetted marketing: The marketing team can take advantage of influencer marketing and other social media platforms to advertise thier product to further drive user acquisition.
-    * Refferal programms : The ribbon team can also implement a referral program that motivates existing users to invite their friends and contacts to join the app and offer rewards or benefits to both the referrer and the new user to encourage participation.
+    * Targeted marketing: The marketing team can take advantage of influencer marketing and other social media platforms to advertise thier product to further drive user acquisition.
+    * Referral programs : The ribbon team can also implement a referral program that motivates existing users to invite their friends and contacts to join the app and offer rewards or benefits to both the referrer and the new user to encourage participation.
     * Push Notifications: Notifications can also be used to re-engage users by informing them about relevant updates feaatures and personalized content. The team should avoid sending irrelevant notifications as this can push customers away from the app.
     * Real time updates: Content should be updated and refreshed in real times as this can help keep users entertained and avoid boredom. 
 
