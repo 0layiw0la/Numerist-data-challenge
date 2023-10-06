@@ -1,4 +1,5 @@
-![image](https://github.com/0layiw0la/Ribbon-Analysis/assets/103042427/9e2c851d-b6a1-4b31-b61c-24e7c20fd4ee)
+![image](https://github.com/0layiw0la/Ribbon-Analysis/assets/103042427/f286cf32-c0f3-4cc6-9378-b2c97b4fb0f9)
+
 
 # Ribbon Success AnaLysis
 This projects data was analysed using powerBi
