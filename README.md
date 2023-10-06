@@ -1,5 +1,7 @@
+![image](https://github.com/0layiw0la/Ribbon-Analysis/assets/103042427/9e2c851d-b6a1-4b31-b61c-24e7c20fd4ee)
+
 # Ribbon Success AnaLysis
-This projects data was analysed exclusively with excel
+This projects data was analysed using powerBi
 
 ## Table of content
 * [Problem Statement](#ProblemStatement)
